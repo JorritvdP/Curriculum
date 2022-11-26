@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
+
+    /* BANNER */
+.banner {
+  /* background: url("https://source.unsplash.com/random/?web"); */
+  background-color: darkgray;
+  background-size: cover;
+  background-position: 25% 15%;
+  height: 40vh;
+}
+
+.title {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+    /* NAVBAR */
+a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+  color: blue;
+}
+
+    /* SUMMARY */
+.paragr{
+  font-family: 'Roboto', sans-serif;
+}
+
+.box{
+  border: 2px solid black;
+  border-radius: 15px;
+}
